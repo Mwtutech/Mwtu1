@@ -6,7 +6,14 @@
 
 ## Deployment Methods
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://drezzy-ruto-e7b1e3a135e8.herokuapp.com/qr)HRKU-c7b040c0-4272-4fe8-b5c2-36da145e4683HRKU-c7b040c0-4272-4fe8-b5c2-36da145e4683 Or [`PARING CODE`](https://drezzy-ruto-e7b1e3a135e8.herokuapp.com/pair). Then `Go-to Whatapp>Three dots>Linked Devices`***
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://drezzy-ruto-e7b1e3a135e8.herokuapp.com/qr)
+2.
+3.
+4.  [`PARING CODE`](https://drezzy-ruto-e7b1e3a135e8.herokuapp.com/pair).
+5.
+6.
+7.
+8.  Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
 ## *Deploy on heroku*
